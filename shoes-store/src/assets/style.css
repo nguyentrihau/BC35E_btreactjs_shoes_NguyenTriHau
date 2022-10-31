@@ -1,0 +1,39 @@
+.bg_modal {
+    background-color: #d5d5d5;
+}
+.modal-header{
+    background-color: #d5d5d5;
+}
+.modal-title {
+    text-align: center;
+    font-size: 40px;
+    color: #2c2c2c;
+    letter-spacing: .05em;
+    text-shadow: 4px 4px 0px #d5d5d5, 7px 7px 0px rgba(0, 0, 0, 0.2);
+}
+
+.prod_content {
+    padding: 100px 20px;
+    border-left: solid 1px black;
+}
+
+.prod_content p:nth-of-type(1) {
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.prod_content p:nth-of-type(1) span {
+    color: rgb(165, 43, 134);
+}
+
+.prod_content p:nth-of-type(2) {
+    font-weight: 500;
+}
+
+.prod_content p:nth-of-type(2) span {
+    font-weight: 700;
+}
+
+.prod_content p:nth-of-type(3) {
+    font-weight: 500;
+}
